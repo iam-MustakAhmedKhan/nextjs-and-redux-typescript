@@ -1,6 +1,7 @@
 {
   "name": "nextjs-and-redux-typescript",
   "version": "0.1.0",
+  "description":"A simple Scafolding for Nextjs,Redux, and Typescript",
   "private": true,
   "scripts": {
     "dev": "next dev",
